@@ -1,0 +1,6 @@
+print("hi")
+print(132)
+print(132.14)
+print(132,132.14)
+print("hi",132)
+print("hi",132,132.14)
