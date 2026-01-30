@@ -1,0 +1,7 @@
+jonathan = " jonathan-2/13/2014"
+tal = "tal-9/8/2016"
+yuval = "yuval-2/7/2021"
+maayan = "maayan-6/19/2022"
+hagay = "hagay-9/15/1983"
+yael = "yael-8/15/1987"
+print(jonathan,"\n",tal,"\n",yuval,"\n",maayan,"\n",hagay,"\n",yael)
