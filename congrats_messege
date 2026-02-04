@@ -1,0 +1,3 @@
+word = "congrats"
+congrats = word.upper()
+print(congrats)
